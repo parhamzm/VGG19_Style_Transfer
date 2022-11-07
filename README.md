@@ -12,4 +12,4 @@ Transfer Learning is a powerful teachnique that can save a lot of time and can p
 
 <img src="images/style_transfer.png" style="width:500px;height:250;" align="center">
   
-<caption><center> <u><b>Figure 1</u></b>: Example of a segmented image <br> </center></caption>
+<caption><center> <u><b>Figure 1</u></b>: Examples of Style Transfer <br> </center></caption>
