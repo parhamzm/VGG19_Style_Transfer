@@ -10,5 +10,6 @@ Transfer Learning is a powerful teachnique that can save a lot of time and can p
 - The game of Style Transfer is the combined contents of an image with the style of a completely different image. Effectively transferring the style of the second image to the first. The resulting image of the combined content and style is referred to as the target image. This technique can have fascinating results.
 
 
-<img src="images/style_transfer.png" style="width:500px;height:250;">
+<img src="images/style_transfer.png" style="width:500px;height:250;" align="center">
+  
 <caption><center> <u><b>Figure 1</u></b>: Example of a segmented image <br> </center></caption>
