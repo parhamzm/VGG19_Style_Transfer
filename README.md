@@ -131,5 +131,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Inspired by and adapted from official PyTorch examples and academic papers.
 
 ---
-
-If you want, I can help you generate a `requirements.txt` or assist with running examples!
